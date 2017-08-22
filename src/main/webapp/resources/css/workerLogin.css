@@ -1,0 +1,10 @@
+.title {
+	color: green;
+	font-family: 微软雅黑;
+	margin-top:200px;
+	margin-bottom: 25px;
+}
+.log_input {
+	width: 200px;
+	margin:0 auto;
+}

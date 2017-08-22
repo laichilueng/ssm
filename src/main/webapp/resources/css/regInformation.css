@@ -1,0 +1,52 @@
+.title{
+   color:green;
+   font-family: "楷体";
+   font-size:35px;
+}
+.body_form {
+	margin-top: 50px;
+}
+.form_input {
+	margin:15px 0;
+	width: 300px;
+}
+.form_box {
+	width:500px;
+	float: left;
+}
+.err_msg {
+	display: inline;
+	color: green;
+	font-size: 12px;
+	font-family: "楷体";
+}
+.file_photo_box {
+	width: 650px;
+	margin-left: 510px;
+}
+.photo_msg {
+	color: green;
+	font-size: 17px;
+	font-family: "楷体";
+}
+.positive{
+     float:left;
+     width:300px;
+}
+.reverse{
+	margin-left:320px;
+}
+.positive_img{
+	background:gray;
+	margin-bottom:10px;
+}
+.reverse_img {
+	background:gray;
+	margin-bottom:10px;
+	display:inline-block;
+}
+.btn_input {
+	margin-left: 47%;
+	margin-top: 50px;
+	width: 120px;
+}

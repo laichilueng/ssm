@@ -1,0 +1,89 @@
+.header {
+	background-color: #18222A;
+	height: 80px;
+}
+
+.header_title {
+	color: #fff;
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+	font-family: "微软雅黑";
+}
+
+.header_input {
+	float: right;
+	background-color: #000;
+	color: #fff;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.middle {
+	margin-top: 10px;
+}
+
+.profile_content {
+	font-family: "楷体";
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+.sign_title {
+	color: green;
+	font-family: "微软雅黑";
+}
+
+.dynamic_title{
+	color: green;
+	font-family: "微软雅黑";
+}
+.dynamic_ul {
+	font-size:20px;
+	margin-top:25px;
+}
+.dynamic_li {
+	margin:10px 0;
+}
+.dynamic_date {
+	float:right;
+	margin-right:5px;
+}
+.sign_ul {
+	font-size:20px;
+	margin-top:25px;
+}
+.sign_li {
+	margin:10px 0;
+}
+.sign_date {
+	float:right;
+	margin-right:5px;
+}
+
+.contact_left {
+	width: 250px;
+	float: left;
+}
+
+.contact_right {
+	width: 500px;
+	float: left;
+}
+
+.contact_right_title {
+	color: #ccc;
+	font-family: "楷体";
+}
+
+.contact_right_content {
+	font-family: "微软雅黑";
+}
+
+.contact_title {
+	color: green;
+	font-family: "微软雅黑";
+	font-size: 30px;
+	margin-top: 30px;
+	text-align: center;
+}
